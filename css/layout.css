@@ -221,4 +221,34 @@ body {
 }
 
 
+/* Style for Work History Section */
+#work-history-section {
+  padding: 20px;
+}
+
+.work-history-container {
+  display: flex;
+  flex-direction: column; /* Display cards vertically */
+  gap: 20px; /* Gap between each card */
+}
+
+.work-history-card {
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  padding: 15px;
+  border-radius: 5px;
+}
+
+.work-history-title {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.work-history-description {
+  font-size: 16px;
+}
+
+
+
 
