@@ -229,13 +229,13 @@ body {
 .work-history-container {
   display: flex;
   flex-direction: column; /* Display cards vertically */
-  gap: 20px; /* Gap between each card */
+  gap: 25px; /* Gap between each card */
 }
 
 .work-history-card {
   background-color: #ffffff;
-  border: 1px solid black;
-  padding: 15px;
+
+  padding: 20px;
   border-radius: 5px;
 }
 
